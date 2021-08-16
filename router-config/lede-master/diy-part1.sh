@@ -15,5 +15,3 @@
 
 # other
 # rm -rf package/lean/{samba4,luci-app-samba4,luci-app-ttyd}
-
-git clone https://github.com/fw876/helloworld
