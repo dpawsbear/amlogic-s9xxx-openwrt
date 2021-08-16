@@ -39,6 +39,8 @@ svn co https://github.com/hubutui/p7zip-lede/trunk package/p7zip
 # add passwall
 svn co https://github.com/xiaorouji/openwrt-passwall/trunk package/openwrt-passwall
 
+svn co https://github.com/fw876/helloworld/tree/master/luci-app-ssr-plus
+
 # coolsnowwolf default software package replaced with Lienol related software package
 # rm -rf feeds/packages/utils/{containerd,libnetwork,runc,tini}
 # svn co https://github.com/Lienol/openwrt-packages/trunk/utils/{containerd,libnetwork,runc,tini} feeds/packages/utils
